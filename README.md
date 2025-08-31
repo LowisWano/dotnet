@@ -1,15 +1,15 @@
 # ASP .NET MVC Workflow
 
 ## Contents
-- Installation and Database Setup
-- How to create an MVC project with visual studio
-- Model
-- Context
-- Migrations and Syncing Database
-- Service
-- Controllers
-- Views
-- Forms and HTTP Action Methods
+- [Installation and Database Setup](#installation-and-database-setup)
+- [How to create an MVC project with Visual Studio](#how-to-create-an-mvc-project-with-visual-studio)
+- [Model](#model)
+- [Context](#context)
+- [Migrations and Syncing Database](#migrations-and-syncing-database)
+- [Service](#service)
+- [Controllers](#controllers)
+- [Views](#views)
+- [Forms and HTTP Action Methods](#forms-and-http-actions)
 
 ___
 
