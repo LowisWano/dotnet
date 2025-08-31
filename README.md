@@ -11,8 +11,6 @@
 - [Views](#views)
 - [Forms and HTTP Action Methods](#forms-and-http-actions)
 
-___
-
 ## Installation and Database Setup
 Before creating a project, we need to install Visual Studio IDE, SSMS, and SQL Server to develop and run the application.
 
@@ -56,7 +54,6 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Password123$" -p 1433:1433 --name 
 }
 
 ```
-___
 
 ## How to create an MVC project with visual studio
 1. Click `Create New Project > ASP.NET Core Web App (Model-View-Controller) Template`
@@ -130,7 +127,6 @@ namespace FirstAppMvc.Data
 }
 
 ```
-___
 
 ## Migrations and Syncing Database
 Before we setup migrations, setup the services in `Program.cs`
@@ -185,8 +181,6 @@ Update-Database
 ```
 
 Try checking in SSMS if the changes are reflected. Click on the table and select `Refresh`
-
-___
 
 ## Service
 Setup context in a service class for security.
